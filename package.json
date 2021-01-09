@@ -9,10 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shubham5i2/tmicro.git"
-  },
   "keywords": [
     "tmicro",
     "compute",
@@ -37,9 +33,5 @@
     "remove_duplicate_array"
   ],
   "author": "Shubham Singh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shubham5i2/tmicro/issues"
-  },
-  "homepage": "https://github.com/shubham5i2/tmicro#readme"
+  "license": "ISC"
 }
