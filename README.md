@@ -20,7 +20,7 @@ This package gives user a flexibility to use simple mathematics computations.
 12. **sort_array_desc(array)** - sorts a character array in descending order
 13. **sort_number_array_asc(array)** - sorts a number array in descending order
 14. **sort_number_array_desc(array)** - sorts a number array in descending order
-15. **isPalindrome(numer)** - check if a string is Palindrome or not
+15. **isPalindrome(number)** - check if a string is Palindrome or not
 16. **removeDuplicates(array)** - remove duplicate values from an array and results in new array
 
 ## Installation
