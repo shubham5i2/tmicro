@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "Use this package for simple computation purpose",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +17,17 @@
     "tmicro",
     "compute",
     "computation",
-    "mathematics"
+    "mathematics",
+    "maths",
+    "integer",
+    "sort",
+    "add",
+    "sub",
+    "mul",
+    "div",
+    "lcm",
+    "gcd",
+    "arithmetic"
   ],
   "author": "Shubham Singh",
   "license": "ISC",
