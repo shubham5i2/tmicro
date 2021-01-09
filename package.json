@@ -1,0 +1,25 @@
+{
+  "name": "tmicro",
+  "version": "1.0.0",
+  "description": "Use this package for simple computation purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham5i2/tmicro.git"
+  },
+  "keywords": [
+    "tmicro",
+    "compute",
+    "computation",
+    "mathematics"
+  ],
+  "author": "Shubham Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham5i2/tmicro/issues"
+  },
+  "homepage": "https://github.com/shubham5i2/tmicro#readme"
+}
