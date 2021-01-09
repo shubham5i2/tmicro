@@ -6,23 +6,22 @@ This package gives user a flexibility to use simple mathematics computations.
 
 ### You can perform below operations with the help of this package
 
-⋅⋅* add(a, b) - addition of 2 numbers
-⋅⋅* sub(a, b) - substration of 2 numbers
-⋅⋅* mul(a, b) - multiplication of 2 numbers
-⋅⋅* div(a, b) - division of 2 numbers
-⋅⋅* rem(a, b) - reminder of 2 numbers
-⋅⋅* lcm(a, b) - LCM of 2 numbers
-⋅⋅* gcd(a, b) - GCD of 2 numbers
-⋅⋅* isEven(a) - check if a number is even
-⋅⋅* isOdd(a) - check if a number is odd
-⋅⋅* isPrime(num) - check if a number is prime
-⋅⋅* sort_array_asc - sorts a character array in ascending order
-⋅⋅* sort_array_desc - sorts a character array in descending order
-⋅⋅* sort_number_array_asc - sorts a number array in descending order
-⋅⋅* sort_number_array_desc - sorts a number array in descending order
-⋅⋅* isPalindrome - check if a string is Palindrome or not
-⋅⋅* isPalindrome - check if a string is Palindrome or not
-⋅⋅* removeDuplicates - remove duplicate values from an array and results in new array
+1. **add(a, b)** - addition of 2 numbers
+2. **sub(a, b)** - substration of 2 numbers
+3. **mul(a, b)** - multiplication of 2 numbers
+4. **div(a, b)** - division of 2 numbers
+5. **rem(a, b)** - reminder of 2 numbers
+6. **lcm(a, b)** - LCM of 2 numbers
+7. **gcd(a, b)** - GCD of 2 numbers
+8. **isEven(a)** - check if a number is even
+9. **isOdd(a)** - check if a number is odd
+10. **isPrime(a)** - check if a number is prime
+11. **sort_array_asc(array)** - sorts a character array in ascending order
+12. **sort_array_desc(array)** - sorts a character array in descending order
+13. **sort_number_array_asc(array)** - sorts a number array in descending order
+14. **sort_number_array_desc(array)** - sorts a number array in descending order
+15. **isPalindrome(numer)** - check if a string is Palindrome or not
+16. **removeDuplicates(array)** - remove duplicate values from an array and results in new array
 
 ## Installation
 
@@ -73,14 +72,19 @@ console.log(tmicro.sort_number_array_desc(numbers)) //Output: [100,40,25,10,5,1]
 
 const str = "madam";
 console.log(tmicro.isPalindrome(str)); //Output: true
+
 const str = "MadAm";
 console.log(tmicro.isPalindrome(str)); //Output: true
+
 const str = "Hello";
 console.log(tmicro.isPalindrome(str)); //Output: false
+
 const str = "12344321";
 console.log(tmicro.isPalindrome(str)); //Output: true
+
 const str = "1234245";
 console.log(tmicro.isPalindrome(str)); //Output: false
+
 const str = " M Al aYalaM";
 console.log(tmicro.isPalindrome(str)); //Output: true
 
@@ -91,5 +95,5 @@ console.log(tmicro.removeDuplicates([1,3,1,3,3,1,0,5,2,1,77,8,5,77,23,21])); //O
 ## Contributor
 
 ```javascript
-Created with :heart: by Shubham Kumar Singh
+Shubham Kumar Singh
 ```
