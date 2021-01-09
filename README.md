@@ -43,7 +43,7 @@ $ yarn add tmicro
 
 ## Usage
 
-### Below are few use cases
+### Below are few use cases or examples
 
 ```javascript
 const tmicro = require("tmicro");
@@ -89,7 +89,7 @@ const str = " M Al aYalaM";
 console.log(tmicro.isPalindrome(str)); //Output: true
 
 let array = [1,3,1,3,3,1,0,5,2,1,77,8,5,77,23,21];
-console.log(tmicro.removeDuplicates([1,3,1,3,3,1,0,5,2,1,77,8,5,77,23,21])); //Output: [ 1, 3, 0, 5, 2, 77, 8, 23, 21 ]
+console.log(tmicro.removeDuplicates(array)); //Output: [ 1, 3, 0, 5, 2, 77, 8, 23, 21 ]
 ```
 
 ## Contributor

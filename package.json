@@ -1,6 +1,6 @@
 {
   "name": "tmicro",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Use this package for simple computation purpose",
   "main": "index.js",
   "directories": {
@@ -27,7 +27,14 @@
     "div",
     "lcm",
     "gcd",
-    "arithmetic"
+    "arithmetic",
+    "Palindrome",
+    "sort_number_array",
+    "sort_characters_array",
+    "even_number",
+    "odd_number",
+    "duplicates",
+    "remove_duplicate_array"
   ],
   "author": "Shubham Singh",
   "license": "ISC",
